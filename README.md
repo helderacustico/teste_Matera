@@ -1,4 +1,4 @@
-# Teste Web com RobotFramework ![robotframework_icon_132027](https://user-images.githubusercontent.com/90788938/138608292-24561c0d-7bc1-4e88-91e3-b74a21a3dab4.png)
+# Teste API com RobotFramework ![robotframework_icon_132027](https://user-images.githubusercontent.com/90788938/138608292-24561c0d-7bc1-4e88-91e3-b74a21a3dab4.png)
 
 
 ### 📋 Pré-requisitos
@@ -7,7 +7,6 @@ O que precisa para realizar os testes?
 
 
 - RobotFramework
-- FakerLibrary
 - RequestLibrary
 - Visual Studio Code
 
