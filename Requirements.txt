@@ -1,0 +1,6 @@
+##############################
+# Requisitos para instalação #
+##############################
+
+robotframework
+robotframework-requestslibrary
